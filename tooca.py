@@ -146,8 +146,6 @@ def main():
  print(" [7] Methods ")
  print(" [69] About & Exit ")
 
- read -p "root@MxCoder~#" bro
-
  zack = input("$ ")
  if zack == '1':
      steam()
